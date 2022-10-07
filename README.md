@@ -1,3 +1,3 @@
 # goerli
 
-Link Alternatif: goerli.padiswap.com
+Link Alternatif: https://goerli.padiswap.com
